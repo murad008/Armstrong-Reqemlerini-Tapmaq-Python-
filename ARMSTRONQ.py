@@ -1,5 +1,3 @@
-import math
-
 n = int(input(": "))
 a=str(n)
 c=[]
